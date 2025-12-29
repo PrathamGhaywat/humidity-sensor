@@ -1,4 +1,6 @@
 # Humidity sensor using ESP32C3 super mini and sht41
+Demo: https://hc-cdn.hel1.your-objectstorage.com/s/v3/d6f16bd3c8ac0322_video.mp4
+
 This project allows you to connect a sht41 and as esp32 c3 super mini module together to display room temp and humidity on the local internet. 
 The esp runs a web server serving basic HTML to fetch the readings.
 optionaly you can connect a battery via buck/booster so that the esp doesn't get cooked.
